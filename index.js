@@ -1,3 +1,3 @@
-function testHere() {
+module.exports function testHere() {
   console.log("success")
 }
